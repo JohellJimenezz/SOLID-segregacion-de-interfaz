@@ -1,0 +1,1 @@
+# SOLID-segregacion-de-interfaz
